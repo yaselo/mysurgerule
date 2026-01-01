@@ -4,6 +4,10 @@ PROCESS-NAME,qbittorrent
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,dnspod.cn
 DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,tutu.pm
+DOMAIN-SUFFIX,3dmgame.com
+
 DOMAIN-KEYWORD,dytt
 DOMAIN-KEYWORD,ddys
 DOMAIN-KEYWORD,tinder
+DOMAIN-KEYWORD,ryplay
